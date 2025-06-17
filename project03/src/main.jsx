@@ -20,7 +20,17 @@ import './index.css'
 // import App from './example/EX08'
 
 // 9. ToDo List 실습
-import App from './example/EX09_ToDo'
+// import App from './example/EX09_ToDo'
+
+// [STEP 04. 라이프사이클]
+// 10. LifeCycle 실습
+// import App from './example/EX10_useEffect'
+
+// 11. useEffect 실습
+// import App from './example/EX11_useEffectPrac'
+
+// 12. axios 실습
+import App from './example/EX12_axios'
 
 createRoot(document.getElementById('root')).render(
     <App />
